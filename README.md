@@ -11,8 +11,6 @@
 
 - 🌱 I’m currently learning **SE,JAVA,REACTJS**
 
-- 👨‍💻 All of my projects are available at [.](.)
-
 - 📫 How to reach me **a7b0hishek@gmail.com**
 
 - ⚡ Fun fact **I Think I am extrovert**
